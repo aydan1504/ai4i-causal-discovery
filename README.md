@@ -46,6 +46,8 @@ Each method produces a causal graph or skeleton under its respective assumptions
 
 All experiments are implemented in a single Jupyter notebook:
 
+AI4I_Causal_Discovery.ipynb
+
 The notebook includes:
 - Data loading and preprocessing
 - Causal discovery for each algorithm
